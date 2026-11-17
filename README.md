@@ -71,6 +71,23 @@ PlayStation's 4:3 picture, so some areas may not work very well in widescreen
 (something missing, cut off or out of place at the sides). If an area looks
 wrong, press F1 to go back to 4:3; the game works the same either way.
 
+## Looking for more?
+
+This project only brings the original game to PC, with a few small extras
+such as widescreen. The game itself is left as it was.
+
+If you want something much bigger, I highly recommend
+**Digimon World: Definitive Edition**. It is the original game rebuilt in
+Unity, with new Digimon (Megas included), new maps, new finishing moves,
+remastered art, online battles and a lot more. It feels like the game got a
+whole new DLC, and every new feature can be switched off if you want the
+original.
+
+It is made by **IAnime Estúdio**. I am not part of it, but they clearly know
+what they are doing. It is still in development, with no download yet.
+
+Trailer: https://youtu.be/MfRXYzcOUkQ
+
 ## Credits
 
 - **jype0** and everyone who contributed to
